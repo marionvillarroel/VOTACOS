@@ -1,29 +1,4 @@
-@import "colores"
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    background-color: $bgcolor ;
-    font-family: 'Poppins', sans-serif;
-    line-height: 18px;
-    letter-spacing: 0.1px;
-    word-spacing: 0.1px;
-    .logo{
-        border-radius: 100%;
-        width: 200px;
-        display: block;
-        margin: auto;
-    }
-    .tituloprincipal{
-        color: $Titulocolor ;
-        font-size: 2em;
-        text-align: center;
-        font-family: 'Lato', sans-serif;
-        margin: 30px;
-    }
-}
+
 
 
 
