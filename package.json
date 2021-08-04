@@ -11,8 +11,16 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^6.0.1",
-    "nodemon": "^2.0.9"
+    "nodemon": "^2.0.12"
   },
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marionvillarroel/VOTACOS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marionvillarroel/VOTACOS/issues"
+  },
+  "homepage": "https://github.com/marionvillarroel/VOTACOS#readme",
   "description": ""
 }
